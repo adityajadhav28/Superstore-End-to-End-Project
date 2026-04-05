@@ -1,11 +1,9 @@
-# Superstore-End-to-End-Project
-End-to-End Data Analytics Project using Superstore dataset (EDA → SQL → ML → Power BI)
-# 🛒 Superstore Sales Analysis – End-to-End Project
+# 🛒 Superstore Sales Analysis – End-to-End Data Project
 
-## 🚀 Project Overview
-This project demonstrates a complete data analytics workflow:
+🚀 This project demonstrates a complete data analytics workflow:
 EDA → SQL → Machine Learning → Power BI
 
+📊 Goal: Identify key factors affecting profitability and business performance.
 ---
 
 ## 🎯 Problem Statement
