@@ -8,6 +8,16 @@ EDA → SQL → Machine Learning → Power BI
 
 ---
 
+## 🎯 Problem Statement
+
+The goal is to analyze retail sales data to identify:
+- Key profit-driving categories
+- Loss-making patterns
+- Regional performance trends
+- Customer segment behavior
+
+---
+
 ## 📊 Current Stage: Exploratory Data Analysis
 
 In this stage, I performed:
@@ -25,10 +35,7 @@ In this stage, I performed:
 - West region performs best
 - Some segments consistently underperform
 
----
 
-## 📸 Project Preview
-(Add screenshots here)
 
 ---
 
@@ -42,3 +49,5 @@ In this stage, I performed:
 - SQL Analysis
 - Machine Learning Model
 - Power BI Dashboard
+
+⭐ If you found this project useful, feel free to star the repository!
