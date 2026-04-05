@@ -6,7 +6,7 @@ The goal of this stage is to explore the Superstore dataset to understand:
 - Profit distribution
 - Customer segments
 - Regional performance
-
+ 
 ---
 
 ## 📂 Dataset Used
