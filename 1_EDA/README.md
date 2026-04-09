@@ -1,6 +1,6 @@
-# 📊 Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
-## 📌 Objective
+## Objective
 The goal of this stage is to explore the Superstore dataset to understand:
 - Sales trends
 - Profit distribution
@@ -9,12 +9,12 @@ The goal of this stage is to explore the Superstore dataset to understand:
  
 ---
 
-## 📂 Dataset Used
+## Dataset Used
 - Superstore dataset (provided in `/data` folder)
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 
 ### 1. Data Cleaning
 - Checked for missing values
@@ -37,17 +37,17 @@ The goal of this stage is to explore the Superstore dataset to understand:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
-- 📌 Technology category generates highest profit
-- 📌 High discounts often lead to losses
-- 📌 West region performs best overall
-- 📌 Some customer segments are less profitable
-- 📌 Profit varies significantly across categories and regions
+- Technology category generates highest profit
+- High discounts often lead to losses
+- West region performs best overall
+- Some customer segments are less profitable
+- Profit varies significantly across categories and regions
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
