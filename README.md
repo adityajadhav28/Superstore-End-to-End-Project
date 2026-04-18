@@ -66,12 +66,14 @@ Superstore-End-to-End-Project/
 │
 ├── README.md
 ├── data/
-│   └── cleaned_superstore.xlsx
-├── sql/
-│   ├── superstore_analysis.sql
+│   └── superstore.csv
+├── 1_EDA/
+│   ├── Superstorer_EDA.ipynb
 │   └── README.md
-├── notebooks/
-│   └── analysis.ipynb
+├── 2_SUPERSTORE_SQL_ANALYSIS/
+│   └── superstore_analysis.sql
+|   └── README.md
+|── images
 ```
 
 ---
