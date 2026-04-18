@@ -11,6 +11,17 @@ It demonstrates a real-world data workflow by combining:
 
 ---
 
+##  Business Problem
+
+The goal of this project is to analyze retail sales data and identify:
+- Profit-driving factors  
+- Loss-making areas  
+- Customer and regional performance  
+
+This helps businesses improve profitability and optimize decision-making.
+
+---
+
 ##  Objectives
 
 * Identify **top-performing categories and products**
@@ -136,11 +147,23 @@ Superstore-End-to-End-Project/
 
 ---
 
-##  Sample Visualizations (Add Screenshots Here)
+##  Visualizations
 
-* Sales vs Profit trend
-* Discount vs Profit scatter plot
-* Region-wise profit comparison
+### Sales vs Profit Analysis
+![Sales vs Profit](images/Sales_vs_Profit.png)
+ Shows that higher sales do not always lead to higher profit.
+
+---
+
+### Discount vs Profit Analysis
+![Discount vs Profit](images/Discount_vs_Profit.png)
+➡️ Higher discounts significantly reduce profit and often cause losses.
+
+---
+
+### Region-wise Profit
+![Region Profit](images/Year-wise_Profit_by_region.png)
+➡️ Some regions generate high sales but low profit, indicating inefficiencies.
 
 ---
 
