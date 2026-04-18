@@ -150,8 +150,9 @@ Superstore-End-to-End-Project/
 ##  Visualizations
 
 ### Sales vs Profit Analysis
-![Sales vs Profit](images/Sales_vs_Profit.png)
- Shows that higher sales do not always lead to higher profit.
+![Sales vs Profit](https://github.com/adityajadhav28/Superstore-End-to-End-Project/blob/main/images/Sales%20vs%20Profit.png)
+
+Shows that higher sales do not always lead to higher profit.
 
 ---
 
