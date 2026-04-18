@@ -163,8 +163,9 @@ Higher discounts significantly reduce profit and often cause losses.
 ---
 
 ### Region-wise Profit
-![Region Profit](images/Year-wise_Profit_by_region.png)
-➡️ Some regions generate high sales but low profit, indicating inefficiencies.
+![Region Profit]([images/Year-wise_Profit_by_region.png](https://github.com/adityajadhav28/Superstore-End-to-End-Project/blob/main/images/Year-wise%20Profit%20by%20region.png))
+
+ Some regions generate high sales but low profit, indicating inefficiencies.
 
 ---
 
