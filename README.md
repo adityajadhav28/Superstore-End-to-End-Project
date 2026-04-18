@@ -157,7 +157,8 @@ Superstore-End-to-End-Project/
 
 ### Discount vs Profit Analysis
 ![Discount vs Profit](https://github.com/adityajadhav28/Superstore-End-to-End-Project/blob/main/images/Discount%20vs%20Profit.png)
-➡️ Higher discounts significantly reduce profit and often cause losses.
+
+Higher discounts significantly reduce profit and often cause losses.
 
 ---
 
