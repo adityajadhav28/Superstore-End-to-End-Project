@@ -78,13 +78,20 @@ Superstore-End-to-End-Project/
 ├── README.md
 ├── data/
 │   └── superstore.csv
+│
 ├── 1_EDA/
-│   ├── Superstorer_EDA.ipynb
+│   ├── Superstore_EDA.ipynb
 │   └── README.md
-├── 2_SUPERSTORE_SQL_ANALYSIS/
-│   └── superstore_analysis.sql
-|   └── README.md
-|── images
+│
+├── 2_SQL_ANALYSIS/
+│   ├── superstore_analysis.sql
+│   └── README.md
+│
+├── 3_ML_MODEL/
+│   ├── Superstore_ML_model.ipynb
+│   └── README.md
+│
+├── images/
 ```
 
 ---
@@ -147,6 +154,15 @@ Superstore-End-to-End-Project/
 
 ---
 
+## Machine Learning Insights
+* Logistic Regression provided the best balance of precision and recall
+* Model helps:
+* Predict loss-making transactions
+* Optimize discount strategies
+* Improve decision-making
+
+---
+
 ##  Visualizations
 
 ### Sales vs Profit Analysis
@@ -172,9 +188,11 @@ Some regions generate high sales but low profit, indicating inefficiencies.
 
 ##  Future Improvements
 
+* Future Improvements
 * Build interactive dashboards (Power BI / Tableau)
 * Perform advanced customer segmentation
-* Apply machine learning for profit prediction
+* Hyperparameter tuning & model optimization
+* Deploy ML model (Flask / Streamlit)
 
 ---
 
