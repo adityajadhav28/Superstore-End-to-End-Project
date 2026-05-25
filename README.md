@@ -154,12 +154,17 @@ Superstore-End-to-End-Project/
 
 ---
 
-## Machine Learning Insights
-* Logistic Regression provided the best balance of precision and recall
-* Model helps:
-* Predict loss-making transactions
-* Optimize discount strategies
-* Improve decision-making
+##  Machine Learning Insights
+
+- **Random Forest provided the best overall performance** with the highest F1 Score and accuracy  
+- The model achieves a strong balance between **precision and recall**, ensuring reliable predictions  
+
+###  Model helps to:
+
+- Identify patterns in data for **accurate classification**
+- Reduce incorrect predictions (both false positives and false negatives)
+- Improve **data-driven decision-making**
+- Enable better **business strategy optimization**
 
 ---
 
