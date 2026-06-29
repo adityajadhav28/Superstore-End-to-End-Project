@@ -90,7 +90,10 @@ Superstore-End-to-End-Project/
 ├── 3_ML_MODEL/
 │   ├── Superstore_ML_model.ipynb
 │   └── README.md
-│
+├── 4_POWER_BI/
+├   |── Superstore_Dashboard.pbix
+│   ├── Dashboard.pdf
+│   └── dashboard.png
 ├── images/
 ```
 
