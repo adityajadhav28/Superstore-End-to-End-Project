@@ -216,11 +216,10 @@ Some regions generate high sales but low profit, indicating inefficiencies.
 
 ##  Future Improvements
 
-* Future Improvements
-* Build interactive dashboards (Power BI / Tableau)
-* Perform advanced customer segmentation
-* Hyperparameter tuning & model optimization
-* Deploy ML model (Flask / Streamlit)
+* Add sales forecasting using Time Series Analysis.
+* Publish the Power BI dashboard to the Power BI Service.
+* Perform advanced customer segmentation using clustering.
+* Optimize machine learning models through hyperparameter tuning.
 
 ---
 
@@ -228,10 +227,12 @@ Some regions generate high sales but low profit, indicating inefficiencies.
 
 This project demonstrates:
 
-* ✔ End-to-end data analysis pipeline
-* ✔ Strong SQL and Python skills
-* ✔ Business-oriented problem solving
-* ✔ Real-world dataset handling
+* Built a complete end-to-end analytics pipeline.
+* Performed business analysis using SQL.
+* Conducted data cleaning and EDA using Python.
+* Designed an interactive Power BI dashboard.
+* Developed predictive machine learning models.
+* Generated actionable business insights for decision-making.
 
 ---
 
