@@ -167,6 +167,25 @@ Superstore-End-to-End-Project/
 - Enable better **business strategy optimization**
 
 ---
+## Power BI Dashboard
+
+### Designed an interactive business dashboard to visualize key performance indicators.
+
+- Dashboard Features
+- Executive KPI Cards
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Sales
+- Sales Trend Analysis
+- Profit Trend Analysis
+- Category & Sub-category Performance
+- Region-wise Sales & Profit
+- Customer Insights
+- Dynamic Filters & Slicers
+- Interactive Business Visualizations
+
+---
 
 ##  Visualizations
 
